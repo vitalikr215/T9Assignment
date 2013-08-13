@@ -1,0 +1,11 @@
+D:\T9Assignment\T9Assignment\bin\Release\T9Assignment.exe
+D:\T9Assignment\T9Assignment\bin\Release\T9Assignment.pdb
+D:\T9Assignment\T9Assignment\obj\x86\Release\T9Assignment.exe
+D:\T9Assignment\T9Assignment\obj\x86\Release\T9Assignment.pdb
+D:\T9Assignment-Sources\T9Assignment\T9Assignment\obj\x86\Release\T9Assignment.exe
+D:\T9Assignment-Sources\T9Assignment\T9Assignment\obj\x86\Release\T9Assignment.pdb
+D:\T9Assignment-Sources\T9Assignment\T9Assignment\bin\Release\T9Assignment.exe
+D:\T9Assignment-Sources\T9Assignment\T9Assignment\bin\Release\T9Assignment.pdb
+D:\T9Assignment-Sources\T9Assignment\T9Assignment\obj\x86\Release\T9Assignment.csprojResolveAssemblyReference.cache
+D:\T9Assignment\Sources\T9Assignment\T9Assignment\obj\x86\Release\T9Assignment.exe
+D:\T9Assignment\Sources\T9Assignment\T9Assignment\obj\x86\Release\T9Assignment.pdb
