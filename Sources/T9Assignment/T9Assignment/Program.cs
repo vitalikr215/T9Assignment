@@ -31,7 +31,7 @@ namespace T9Assignment
 					{
 						if (counter >= 1)
 						{
-							string t9Line = formatter.GetT9String(line.ToLower());
+							string t9Line = formatter.GetT9String(line);
 							Console.WriteLine("{0} => {1}", line, t9Line);
 							sw.WriteLine("Case #{0}: {1}", counter, t9Line);
 						}

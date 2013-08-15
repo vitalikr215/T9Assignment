@@ -5,7 +5,7 @@ using System.Text;
 
 namespace T9Assignment
 {
-	class T9Formatter
+	public class T9Formatter
 	{
 		private static readonly List<T9Symbol> T9Alpabet = 
 			new List<T9Symbol>
@@ -78,12 +78,13 @@ namespace T9Assignment
 		public string GetT9String(string inputString)
 		{
 			var t9String = new StringBuilder();
+			var inputStr = inputString.ToLower();
 
-			for (int i = 0; i < inputString.Length; i++)
+			for (int i = 0; i < inputStr.Length; i++)
 			{
-				string t9Symbol = (i == 0) 
-					                  ? GetT9Symbol(inputString[i], null) 
-					                  : GetT9Symbol(inputString[i], inputString[i-1]);
+				string t9Symbol = (i == 0)
+									  ? GetT9Symbol(inputStr[i], null)
+									  : GetT9Symbol(inputStr[i], inputStr[i - 1]);
 
 				if (t9Symbol == "-1")
 				{

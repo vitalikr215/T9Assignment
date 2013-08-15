@@ -1,0 +1,7 @@
+D:\T9Assignment\Sources\T9Assignment\T9Assignment.Tests\obj\Release\T9Assignment.Tests.csprojResolveAssemblyReference.cache
+D:\T9Assignment\Sources\T9Assignment\T9Assignment.Tests\bin\Release\T9Assignment.Tests.dll
+D:\T9Assignment\Sources\T9Assignment\T9Assignment.Tests\bin\Release\T9Assignment.Tests.pdb
+D:\T9Assignment\Sources\T9Assignment\T9Assignment.Tests\bin\Release\T9Assignment.exe
+D:\T9Assignment\Sources\T9Assignment\T9Assignment.Tests\bin\Release\T9Assignment.pdb
+D:\T9Assignment\Sources\T9Assignment\T9Assignment.Tests\obj\Release\T9Assignment.Tests.dll
+D:\T9Assignment\Sources\T9Assignment\T9Assignment.Tests\obj\Release\T9Assignment.Tests.pdb
